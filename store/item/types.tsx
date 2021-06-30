@@ -2,7 +2,7 @@ import {
   FETCH_ITEM_REQUEST,
   FETCH_ITEM_SUCCESS,
   FETCH_ITEM_FAILURE
-} from "./actionTypes";
+} from "./actionType";
 
 export interface Item {
   name: string,
